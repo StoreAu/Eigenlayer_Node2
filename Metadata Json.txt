@@ -1,0 +1,7 @@
+{
+"name": "Kamikaz",
+"website": "WEBSITE",
+"description": "EigenleyerOperator",
+"logo": "LOGO",
+"twitter": "Node102102"
+}1
